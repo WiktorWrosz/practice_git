@@ -1,0 +1,11 @@
+{
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on"
+    },
+    "editor.tabCompletion": "on",
+    "python.autoComplete.extraPaths": [
+        
+    ],
+    "python.analysis.extraPaths": []
+}
